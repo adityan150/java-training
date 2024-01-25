@@ -41,6 +41,8 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.DateConversionExample.executor": "Run",
     "Application.FileExample.executor": "Run",
+    "Application.ListExample.executor": "Run",
+    "Application.MapExample.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -56,7 +58,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DateConversionExample">
+  <component name="RunManager">
     <configuration name="DateConversionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DateConversion.DateConversionExample" />
       <module name="java-training" />
@@ -105,7 +107,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706159292031</updated>
-      <workItem from="1706159293008" duration="4015000" />
+      <workItem from="1706159293008" duration="6206000" />
     </task>
     <servers />
   </component>
