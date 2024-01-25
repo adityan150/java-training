@@ -1,3 +1,4 @@
+package MultiThreading;
 // MultiThreading 1: Using Thread class
 /**
 *  Create a class extending the Thread class and override the run() method in it
