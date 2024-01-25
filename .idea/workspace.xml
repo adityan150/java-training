@@ -17,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -39,10 +40,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Car.executor": "Run",
     "Application.DateConversionExample.executor": "Run",
     "Application.FileExample.executor": "Run",
     "Application.ListExample.executor": "Run",
     "Application.MapExample.executor": "Run",
+    "Application.QueueExample.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -107,7 +110,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706159292031</updated>
-      <workItem from="1706159293008" duration="6206000" />
+      <workItem from="1706159293008" duration="10398000" />
     </task>
     <servers />
   </component>
